@@ -4,7 +4,7 @@
 ## Setup
 Creating the virtual environment and installing packages. 
 ``````bash
-module load python/3.7.7
+module load python/3.10
 python3 -m venv pov
 source pov/bin/activate
 pip install --upgrade pip
