@@ -45,3 +45,5 @@ sbatch download_data.sh
 
 ### Analysing model results
 - analyse_best_models.ipynb
+
+Best trained models can be found in the best_models folder.
